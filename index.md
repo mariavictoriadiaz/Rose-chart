@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/mariavictoriadiaz/mariavic
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-![rose](docs/assets/rose.png)
+![rose](https://user-images.githubusercontent.com/35539148/141706214-946fe386-2f16-4b26-b6ea-ded6115d2339.png)
 
 
 
@@ -19,8 +19,7 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-![rose](docs/assets/rose.png)
-
+![rose](https://user-images.githubusercontent.com/35539148/141706226-a71249d8-3d42-4777-98c9-db402e1a36e3.png)
 
 - Bulleted
 - List
