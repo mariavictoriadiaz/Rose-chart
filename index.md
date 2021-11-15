@@ -17,8 +17,7 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-
-![rose](rose.png)
+![rose](/mariavictoriadiaz.github.io/docs/assets/rose.png)
 
 
 - Bulleted
